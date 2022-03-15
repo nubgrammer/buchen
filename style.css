@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(148, 88, 88);
+}
+
+button {
+  color: black;
+  background-color: pink;
+  border-color: pink;
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 60px;
+}
